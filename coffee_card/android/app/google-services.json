@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734696470059",
+    "project_id": "cuitproject-3445d",
+    "storage_bucket": "cuitproject-3445d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734696470059:android:d597c4d836fa146ddfdc6e",
+        "android_client_info": {
+          "package_name": "com.example.coffee_card"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA6MAlMcKWXlavJlAGrF1B5uDuXAlYlLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

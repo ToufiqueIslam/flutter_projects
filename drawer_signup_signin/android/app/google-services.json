@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445423449447",
+    "project_id": "drawer-signin-signup",
+    "storage_bucket": "drawer-signin-signup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445423449447:android:5f5d5d43e8a4ede983ebc2",
+        "android_client_info": {
+          "package_name": "com.example.drawer_signup_signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRhb0nPjCaKRRyQ0Aj_Fm_kNZo6H5N_Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
